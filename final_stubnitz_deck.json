@@ -862,6 +862,35 @@
                  "imagewidth":64
                 }],
          "tilewidth":160
+        }, 
+        {
+         "columns":0,
+         "firstgid":151,
+         "grid":
+            {
+             "height":1,
+             "orientation":"orthogonal",
+             "width":1
+            },
+         "margin":0,
+         "name":"shipTiles",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":474,
+         "tiles":[
+                {
+                 "id":3,
+                 "image":"tiles\/final_msstubnitz.png",
+                 "imageheight":474,
+                 "imagewidth":1088,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":1088
         }],
  "tilewidth":32,
  "type":"map",

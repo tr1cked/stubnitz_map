@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"stubnitz_underdeck.json"
+        }
+    },
  "height":100,
  "infinite":true,
  "layers":[
