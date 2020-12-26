@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="outside_ship_tileset" tilewidth="160" tileheight="128" tilecount="83" columns="0">
+<tileset version="1.4" tiledversion="1.4.3" name="outside_ship_tileset" tilewidth="160" tileheight="128" tilecount="82" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="9">
   <image width="32" height="32" source="tiles/pixel-32x32-onlyrain-1.png"/>
@@ -283,9 +283,6 @@
  </tile>
  <tile id="125">
   <image width="32" height="32" source="tiles/01_disinfection_dispenser_32x32.png"/>
- </tile>
- <tile id="126">
-  <image width="32" height="32" source="tiles/grey.png"/>
  </tile>
  <tile id="127">
   <properties>
