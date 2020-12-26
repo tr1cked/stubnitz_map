@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="outside_ship_tileset" tilewidth="160" tileheight="128" tilecount="85" columns="0">
+<tileset version="1.4" tiledversion="1.4.3" name="outside_ship_tileset" tilewidth="160" tileheight="128" tilecount="83" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="9">
   <image width="32" height="32" source="tiles/pixel-32x32-onlyrain-1.png"/>
@@ -328,8 +328,5 @@
  </tile>
  <tile id="148">
   <image width="32" height="32" source="tiles/stripe.png"/>
- </tile>
- <tile id="149">
-  <image width="64" height="64" source="tiles/worldExit.png"/>
  </tile>
 </tileset>
