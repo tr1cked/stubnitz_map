@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"final_stubnitz_deck.json"
+        }
+    },
  "height":21,
  "infinite":false,
  "layers":[
@@ -121,6 +129,12 @@
          "id":11,
          "name":"exitUnderdeck",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"stubnitz_underdeck.json#start"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":52,

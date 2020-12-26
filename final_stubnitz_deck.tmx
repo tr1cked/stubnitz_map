@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="52" height="21" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="1">
+ <editorsettings>
+  <export target="final_stubnitz_deck.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" source="outside_ship_tileset.tsx"/>
  <layer id="7" name="start" width="52" height="21">
   <data encoding="csv">
@@ -206,6 +209,9 @@
 </data>
  </layer>
  <layer id="11" name="exitUnderdeck" width="52" height="21">
+  <properties>
+   <property name="exitUrl" value="stubnitz_underdeck.json#start"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
