@@ -163,6 +163,7 @@
              "orientation":"orthogonal",
              "width":1
             },
+	 "image": "test.png",
          "margin":0,
          "name":"outside_ship_tileset",
          "spacing":0,
@@ -866,6 +867,7 @@
              "orientation":"orthogonal",
              "width":1
             },
+  	 "image": "test.png",
          "margin":0,
          "name":"shipTiles",
          "spacing":0,
