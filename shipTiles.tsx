@@ -5,6 +5,6 @@
   <properties>
    <property name="collides" type="bool" value="true"/>
   </properties>
-  <image width="1088" height="474" source="../rC3/PNG/final_msstubnitz.png"/>
+  <image width="1088" height="474" source="tiles/final_msstubnitz.png"/>
  </tile>
 </tileset>
